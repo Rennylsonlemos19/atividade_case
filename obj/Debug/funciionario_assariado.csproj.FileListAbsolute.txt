@@ -1,0 +1,7 @@
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\funciionario_assariado\bin\Debug\funciionario_assariado.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\funciionario_assariado\bin\Debug\funciionario_assariado.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\funciionario_assariado\bin\Debug\funciionario_assariado.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\funciionario_assariado\obj\Debug\funciionario_assariado.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\funciionario_assariado\obj\Debug\funciionario_assariado.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\funciionario_assariado\obj\Debug\funciionario_assariado.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\funciionario_assariado\obj\Debug\funciionario_assariado.pdb
